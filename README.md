@@ -14,3 +14,13 @@
 ## ⚙ 개발 환경
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <br>
+
+### 상위 10 개국 확진자수 현황표
+
+<br>
+
+### 상위 10 개국 확진자수 대비 사망률
+
+<br>
+
+### 특정 국가의 상세 수치 확인
